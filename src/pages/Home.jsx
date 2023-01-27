@@ -10,7 +10,6 @@ const Home = () => {
   return (
     <Fragment>
       <Header />
-
       <Courses />
       <FreeCourse />
       <Footer />
